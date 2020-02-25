@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dfb20ed8-9ecc-4552-a912-ef54c21eaead" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XuvWGs5A1HJYUFEgsn59xrcnPw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\phoex\Desktop\automation_projects\SauceLabs\utilities" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for product_test.ProductTest">
+    <configuration name="home_page_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SauceLabs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/home" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/home/home_page_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="product_page" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SauceLabs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pages/ProductPage" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pages/ProductPage/product_page.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for product_test.ProductTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="SauceLabs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/products" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;product_test.ProductTest&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for product_test.ProductTest" />
+        <item itemvalue="Python.product_page" />
+        <item itemvalue="Python.home_page_test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dfb20ed8-9ecc-4552-a912-ef54c21eaead" name="Default Changelist" comment="" />
+      <created>1581908867389</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581908867389</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="612" height="546" key="DebuggerActiveHint" timestamp="1582094332563">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="612" height="546" key="DebuggerActiveHint/0.0.1366.768@0.0.1366.768" timestamp="1582094332563" />
+    <state x="452" y="256" key="Github.CreateGistDialog" timestamp="1582563737037">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="452" y="256" key="Github.CreateGistDialog/0.0.1366.768@0.0.1366.768" timestamp="1582563737037" />
+    <state width="1339" height="190" key="GridCell.Tab.0.bottom" timestamp="1582158645824">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1339" height="190" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1582158645824" />
+    <state width="1339" height="190" key="GridCell.Tab.0.center" timestamp="1582158645823">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1339" height="190" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1582158645823" />
+    <state width="1339" height="190" key="GridCell.Tab.0.left" timestamp="1582158645823">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1339" height="190" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1582158645823" />
+    <state width="1339" height="190" key="GridCell.Tab.0.right" timestamp="1582158645823">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1339" height="190" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1582158645823" />
+    <state width="1339" height="222" key="GridCell.Tab.1.bottom" timestamp="1582094268984">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1339" height="222" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1582094268984" />
+    <state width="1339" height="222" key="GridCell.Tab.1.center" timestamp="1582094268984">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1339" height="222" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1582094268984" />
+    <state width="1339" height="222" key="GridCell.Tab.1.left" timestamp="1582094268983">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1339" height="222" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1582094268983" />
+    <state width="1339" height="222" key="GridCell.Tab.1.right" timestamp="1582094268984">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1339" height="222" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1582094268984" />
+    <state x="580" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1581912514676">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="580" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1581912514676" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

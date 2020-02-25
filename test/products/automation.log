@@ -1,0 +1,147 @@
+02/25/2020 05:48:28 AM - SeleniumDriver - INFO: Element found with locator: //select[@class="product_sort_container"] and  locatorType: xpath
+02/25/2020 05:48:31 AM - SeleniumDriver - INFO: Element found with locator: //*[@id="inventory_container"]/div/div[1]/div[3]/button and  locatorType: xpath
+02/25/2020 05:48:32 AM - SeleniumDriver - INFO: Clicked on element with locator: //*[@id="inventory_container"]/div/div[1]/div[3]/button locatorType: xpath
+02/25/2020 05:48:32 AM - SeleniumDriver - INFO: Element found with locator: item_4_title_link and  locatorType: id
+02/25/2020 05:48:32 AM - SeleniumDriver - INFO: Clicked on element with locator: item_4_title_link locatorType: id
+02/25/2020 05:48:32 AM - SeleniumDriver - INFO: Element found with locator: //*[@id="inventory_item_container"]/div/div/div/button and  locatorType: xpath
+02/25/2020 05:48:34 AM - SeleniumDriver - INFO: Hovered on element with locator //*[@id="inventory_item_container"]/div/div/div/button and locatorType xpath
+02/25/2020 05:48:34 AM - SeleniumDriver - INFO: Element found with locator: //*[@id="inventory_item_container"]//button[contains(text(),"<- Back")] and  locatorType: xpath
+02/25/2020 05:48:34 AM - SeleniumDriver - INFO: Clicked on element with locator: //*[@id="inventory_item_container"]//button[contains(text(),"<- Back")] locatorType: xpath
+02/25/2020 05:48:34 AM - SeleniumDriver - INFO: Element found with locator: //span[@class="fa-layers-counter shopping_cart_badge"] and  locatorType: xpath
+02/25/2020 05:48:35 AM - SeleniumDriver - INFO: Clicked on element with locator: //span[@class="fa-layers-counter shopping_cart_badge"] locatorType: xpath
+02/25/2020 05:48:35 AM - SeleniumDriver - INFO: Element found with locator: //button[@class="btn_secondary cart_button"] and  locatorType: xpath
+02/25/2020 05:48:36 AM - SeleniumDriver - INFO: Hovered on element with locator //button[@class="btn_secondary cart_button"] and locatorType xpath
+02/25/2020 05:48:39 AM - SeleniumDriver - ERROR: Element not found with locator: //*[@id="inventory_item_container"]/div/div/div/button and  locatorType: xpath
+02/25/2020 06:01:51 AM - SeleniumDriver - INFO: Element found with locator: //select[@class="product_sort_container"] and  locatorType: xpath
+02/25/2020 06:01:54 AM - SeleniumDriver - INFO: Element found with locator: //*[@id="inventory_container"]/div/div[1]/div[3]/button and  locatorType: xpath
+02/25/2020 06:01:55 AM - SeleniumDriver - INFO: Clicked on element with locator: //*[@id="inventory_container"]/div/div[1]/div[3]/button locatorType: xpath
+02/25/2020 06:01:55 AM - SeleniumDriver - INFO: Element found with locator: item_4_title_link and  locatorType: id
+02/25/2020 06:01:56 AM - SeleniumDriver - INFO: Clicked on element with locator: item_4_title_link locatorType: id
+02/25/2020 06:01:56 AM - SeleniumDriver - INFO: Element found with locator: //*[@id="inventory_item_container"]/div/div/div/button and  locatorType: xpath
+02/25/2020 06:01:58 AM - SeleniumDriver - INFO: Hovered on element with locator //*[@id="inventory_item_container"]/div/div/div/button and locatorType xpath
+02/25/2020 06:01:58 AM - SeleniumDriver - INFO: Element found with locator: //*[@id="inventory_item_container"]//button[contains(text(),"<- Back")] and  locatorType: xpath
+02/25/2020 06:01:58 AM - SeleniumDriver - INFO: Clicked on element with locator: //*[@id="inventory_item_container"]//button[contains(text(),"<- Back")] locatorType: xpath
+02/25/2020 06:01:58 AM - SeleniumDriver - INFO: Element found with locator: //span[@class="fa-layers-counter shopping_cart_badge"] and  locatorType: xpath
+02/25/2020 06:01:59 AM - SeleniumDriver - INFO: Clicked on element with locator: //span[@class="fa-layers-counter shopping_cart_badge"] locatorType: xpath
+02/25/2020 06:01:59 AM - SeleniumDriver - INFO: Element found with locator: //button[@class="btn_secondary cart_button"] and  locatorType: xpath
+02/25/2020 06:02:01 AM - SeleniumDriver - INFO: Hovered on element with locator //button[@class="btn_secondary cart_button"] and locatorType xpath
+02/25/2020 06:02:09 AM - SeleniumDriver - ERROR: Element not found with locator: //*[@id="inventory_item_container"]/div/div/div/button and  locatorType: xpath
+02/25/2020 06:07:21 AM - SeleniumDriver - INFO: Element found with locator: //select[@class="product_sort_container"] and  locatorType: xpath
+02/25/2020 06:07:25 AM - SeleniumDriver - INFO: Element found with locator: //*[@id="inventory_container"]/div/div[1]/div[3]/button and  locatorType: xpath
+02/25/2020 06:07:25 AM - SeleniumDriver - INFO: Clicked on element with locator: //*[@id="inventory_container"]/div/div[1]/div[3]/button locatorType: xpath
+02/25/2020 06:07:25 AM - SeleniumDriver - INFO: Element found with locator: item_4_title_link and  locatorType: id
+02/25/2020 06:07:26 AM - SeleniumDriver - INFO: Clicked on element with locator: item_4_title_link locatorType: id
+02/25/2020 06:07:26 AM - SeleniumDriver - INFO: Element found with locator: //*[@id="inventory_item_container"]/div/div/div/button and  locatorType: xpath
+02/25/2020 06:07:27 AM - SeleniumDriver - INFO: Hovered on element with locator //*[@id="inventory_item_container"]/div/div/div/button and locatorType xpath
+02/25/2020 06:07:27 AM - SeleniumDriver - INFO: Element found with locator: //*[@id="inventory_item_container"]//button[contains(text(),"<- Back")] and  locatorType: xpath
+02/25/2020 06:07:28 AM - SeleniumDriver - INFO: Clicked on element with locator: //*[@id="inventory_item_container"]//button[contains(text(),"<- Back")] locatorType: xpath
+02/25/2020 06:07:28 AM - SeleniumDriver - INFO: Element found with locator: //span[@class="fa-layers-counter shopping_cart_badge"] and  locatorType: xpath
+02/25/2020 06:07:29 AM - SeleniumDriver - INFO: Clicked on element with locator: //span[@class="fa-layers-counter shopping_cart_badge"] locatorType: xpath
+02/25/2020 06:07:29 AM - SeleniumDriver - INFO: Element found with locator: //button[@class="btn_secondary cart_button"] and  locatorType: xpath
+02/25/2020 06:07:30 AM - SeleniumDriver - INFO: Hovered on element with locator //button[@class="btn_secondary cart_button"] and locatorType xpath
+02/25/2020 06:07:30 AM - SeleniumDriver - INFO: Element found with locator: //*[@id="cart_contents_container"]/div/div[2]/a[2] and  locatorType: xpath
+02/25/2020 06:07:30 AM - SeleniumDriver - INFO: Clicked on element with locator: //*[@id="cart_contents_container"]/div/div[2]/a[2] locatorType: xpath
+02/25/2020 06:07:33 AM - SeleniumDriver - ERROR: Element not found with locator: //select[@class="product_sort_container"] and  locatorType: xpath
+02/25/2020 06:07:33 AM - SeleniumDriver - ERROR: Element not found
+02/25/2020 06:07:33 AM - SeleniumDriver - INFO: Element found with locator: //div[@class="subheader"] and  locatorType: xpath
+02/25/2020 06:07:33 AM - SeleniumDriver - INFO: Element Found
+02/25/2020 06:09:23 AM - SeleniumDriver - INFO: Element found with locator: //select[@class="product_sort_container"] and  locatorType: xpath
+02/25/2020 06:09:27 AM - SeleniumDriver - INFO: Element found with locator: //*[@id="inventory_container"]/div/div[1]/div[3]/button and  locatorType: xpath
+02/25/2020 06:09:27 AM - SeleniumDriver - INFO: Clicked on element with locator: //*[@id="inventory_container"]/div/div[1]/div[3]/button locatorType: xpath
+02/25/2020 06:09:27 AM - SeleniumDriver - INFO: Element found with locator: item_4_title_link and  locatorType: id
+02/25/2020 06:09:28 AM - SeleniumDriver - INFO: Clicked on element with locator: item_4_title_link locatorType: id
+02/25/2020 06:09:28 AM - SeleniumDriver - INFO: Element found with locator: //*[@id="inventory_item_container"]/div/div/div/button and  locatorType: xpath
+02/25/2020 06:09:29 AM - SeleniumDriver - INFO: Hovered on element with locator //*[@id="inventory_item_container"]/div/div/div/button and locatorType xpath
+02/25/2020 06:09:29 AM - SeleniumDriver - INFO: Element found with locator: //*[@id="inventory_item_container"]//button[contains(text(),"<- Back")] and  locatorType: xpath
+02/25/2020 06:09:29 AM - SeleniumDriver - INFO: Clicked on element with locator: //*[@id="inventory_item_container"]//button[contains(text(),"<- Back")] locatorType: xpath
+02/25/2020 06:09:29 AM - SeleniumDriver - INFO: Element found with locator: //span[@class="fa-layers-counter shopping_cart_badge"] and  locatorType: xpath
+02/25/2020 06:09:30 AM - SeleniumDriver - INFO: Clicked on element with locator: //span[@class="fa-layers-counter shopping_cart_badge"] locatorType: xpath
+02/25/2020 06:09:30 AM - SeleniumDriver - INFO: Element found with locator: //button[@class="btn_secondary cart_button"] and  locatorType: xpath
+02/25/2020 06:09:31 AM - SeleniumDriver - INFO: Hovered on element with locator //button[@class="btn_secondary cart_button"] and locatorType xpath
+02/25/2020 06:09:31 AM - SeleniumDriver - INFO: Element found with locator: //*[@id="cart_contents_container"]/div/div[2]/a[1] and  locatorType: xpath
+02/25/2020 06:09:33 AM - SeleniumDriver - INFO: Hovered on element with locator //*[@id="cart_contents_container"]/div/div[2]/a[1] and locatorType xpath
+02/25/2020 06:09:33 AM - SeleniumDriver - INFO: Element found with locator: //*[@id="cart_contents_container"]/div/div[2]/a[2] and  locatorType: xpath
+02/25/2020 06:09:33 AM - SeleniumDriver - INFO: Clicked on element with locator: //*[@id="cart_contents_container"]/div/div[2]/a[2] locatorType: xpath
+02/25/2020 06:09:36 AM - SeleniumDriver - ERROR: Element not found with locator: //select[@class="product_sort_container"] and  locatorType: xpath
+02/25/2020 06:09:36 AM - SeleniumDriver - ERROR: Element not found
+02/25/2020 06:09:36 AM - SeleniumDriver - INFO: Element found with locator: //div[@class="subheader"] and  locatorType: xpath
+02/25/2020 06:09:36 AM - SeleniumDriver - INFO: Element Found
+02/25/2020 06:09:36 AM - TestStatus - INFO: --------Verification Success Header is present
+02/25/2020 06:09:36 AM - TestStatus - INFO: --------Verification Success element is present
+02/25/2020 06:09:37 AM - TestStatus - INFO: screenshot saved  to directorC:\Users\phoex\Desktop\automation_projects\SauceLabs\base\../screenshots/element is present.1582600176702.png
+02/25/2020 06:09:37 AM - TestStatus - INFO: element_present---TEST SUCCESSFUL
+02/25/2020 08:36:35 AM - SeleniumDriver - INFO: Element found with locator: //select[@class="product_sort_container"] and  locatorType: xpath
+02/25/2020 08:36:38 AM - SeleniumDriver - INFO: Element found with locator: //*[@id="inventory_container"]/div/div[1]/div[3]/button and  locatorType: xpath
+02/25/2020 08:36:39 AM - SeleniumDriver - INFO: Clicked on element with locator: //*[@id="inventory_container"]/div/div[1]/div[3]/button locatorType: xpath
+02/25/2020 08:36:39 AM - SeleniumDriver - INFO: Element found with locator: item_4_title_link and  locatorType: id
+02/25/2020 08:36:39 AM - SeleniumDriver - INFO: Clicked on element with locator: item_4_title_link locatorType: id
+02/25/2020 08:36:39 AM - SeleniumDriver - INFO: Element found with locator: //*[@id="inventory_item_container"]/div/div/div/button and  locatorType: xpath
+02/25/2020 08:36:40 AM - SeleniumDriver - INFO: Hovered on element with locator //*[@id="inventory_item_container"]/div/div/div/button and locatorType xpath
+02/25/2020 08:36:40 AM - SeleniumDriver - INFO: Element found with locator: //*[@id="inventory_item_container"]//button[contains(text(),"<- Back")] and  locatorType: xpath
+02/25/2020 08:36:41 AM - SeleniumDriver - INFO: Clicked on element with locator: //*[@id="inventory_item_container"]//button[contains(text(),"<- Back")] locatorType: xpath
+02/25/2020 08:36:41 AM - SeleniumDriver - INFO: Element found with locator: //span[@class="fa-layers-counter shopping_cart_badge"] and  locatorType: xpath
+02/25/2020 08:36:41 AM - SeleniumDriver - INFO: Clicked on element with locator: //span[@class="fa-layers-counter shopping_cart_badge"] locatorType: xpath
+02/25/2020 08:36:42 AM - SeleniumDriver - INFO: Element found with locator: //button[@class="btn_secondary cart_button"] and  locatorType: xpath
+02/25/2020 08:36:43 AM - SeleniumDriver - INFO: Hovered on element with locator //button[@class="btn_secondary cart_button"] and locatorType xpath
+02/25/2020 08:36:43 AM - SeleniumDriver - INFO: Element found with locator: //*[@id="cart_contents_container"]/div/div[2]/a[1] and  locatorType: xpath
+02/25/2020 08:36:44 AM - SeleniumDriver - INFO: Hovered on element with locator //*[@id="cart_contents_container"]/div/div[2]/a[1] and locatorType xpath
+02/25/2020 08:36:44 AM - SeleniumDriver - INFO: Element found with locator: //*[@id="cart_contents_container"]/div/div[2]/a[2] and  locatorType: xpath
+02/25/2020 08:36:44 AM - SeleniumDriver - INFO: Clicked on element with locator: //*[@id="cart_contents_container"]/div/div[2]/a[2] locatorType: xpath
+02/25/2020 08:36:47 AM - SeleniumDriver - ERROR: Element not found with locator: //select[@class="product_sort_container"] and  locatorType: xpath
+02/25/2020 08:36:47 AM - SeleniumDriver - ERROR: Element not found
+02/25/2020 08:36:48 AM - SeleniumDriver - INFO: Element found with locator: //div[@class="subheader"] and  locatorType: xpath
+02/25/2020 08:36:48 AM - SeleniumDriver - INFO: Element Found
+02/25/2020 08:36:48 AM - TestStatus - INFO: --------Verification Success Header is present
+02/25/2020 08:36:48 AM - TestStatus - INFO: --------Verification Success element is present
+02/25/2020 08:36:48 AM - TestStatus - INFO: screenshot saved  to directorC:\Users\phoex\Desktop\automation_projects\SauceLabs\base\../screenshots/element is present.1582609008020.png
+02/25/2020 08:36:48 AM - TestStatus - INFO: element_present---TEST SUCCESSFUL
+02/25/2020 08:37:30 AM - SeleniumDriver - INFO: Element found with locator: //select[@class="product_sort_container"] and  locatorType: xpath
+02/25/2020 08:37:33 AM - SeleniumDriver - INFO: Element found with locator: //*[@id="inventory_container"]/div/div[1]/div[3]/button and  locatorType: xpath
+02/25/2020 08:37:33 AM - SeleniumDriver - INFO: Clicked on element with locator: //*[@id="inventory_container"]/div/div[1]/div[3]/button locatorType: xpath
+02/25/2020 08:37:34 AM - SeleniumDriver - INFO: Element found with locator: item_4_title_link and  locatorType: id
+02/25/2020 08:37:34 AM - SeleniumDriver - INFO: Clicked on element with locator: item_4_title_link locatorType: id
+02/25/2020 08:37:34 AM - SeleniumDriver - INFO: Element found with locator: //*[@id="inventory_item_container"]/div/div/div/button and  locatorType: xpath
+02/25/2020 08:37:35 AM - SeleniumDriver - INFO: Hovered on element with locator //*[@id="inventory_item_container"]/div/div/div/button and locatorType xpath
+02/25/2020 08:37:35 AM - SeleniumDriver - INFO: Element found with locator: //*[@id="inventory_item_container"]//button[contains(text(),"<- Back")] and  locatorType: xpath
+02/25/2020 08:37:36 AM - SeleniumDriver - INFO: Clicked on element with locator: //*[@id="inventory_item_container"]//button[contains(text(),"<- Back")] locatorType: xpath
+02/25/2020 08:37:36 AM - SeleniumDriver - INFO: Element found with locator: //span[@class="fa-layers-counter shopping_cart_badge"] and  locatorType: xpath
+02/25/2020 08:37:36 AM - SeleniumDriver - INFO: Clicked on element with locator: //span[@class="fa-layers-counter shopping_cart_badge"] locatorType: xpath
+02/25/2020 08:37:36 AM - SeleniumDriver - INFO: Element found with locator: //button[@class="btn_secondary cart_button"] and  locatorType: xpath
+02/25/2020 08:37:38 AM - SeleniumDriver - INFO: Hovered on element with locator //button[@class="btn_secondary cart_button"] and locatorType xpath
+02/25/2020 08:37:38 AM - SeleniumDriver - INFO: Element found with locator: //*[@id="cart_contents_container"]/div/div[2]/a[1] and  locatorType: xpath
+02/25/2020 08:37:39 AM - SeleniumDriver - INFO: Hovered on element with locator //*[@id="cart_contents_container"]/div/div[2]/a[1] and locatorType xpath
+02/25/2020 08:37:39 AM - SeleniumDriver - INFO: Element found with locator: //*[@id="cart_contents_container"]/div/div[2]/a[2] and  locatorType: xpath
+02/25/2020 08:37:39 AM - SeleniumDriver - INFO: Clicked on element with locator: //*[@id="cart_contents_container"]/div/div[2]/a[2] locatorType: xpath
+02/25/2020 08:37:42 AM - SeleniumDriver - ERROR: Element not found with locator: //select[@class="product_sort_container"] and  locatorType: xpath
+02/25/2020 08:37:42 AM - SeleniumDriver - ERROR: Element not found
+02/25/2020 08:37:42 AM - SeleniumDriver - INFO: Element found with locator: //div[@class="subheader"] and  locatorType: xpath
+02/25/2020 08:37:42 AM - SeleniumDriver - INFO: Element Found
+02/25/2020 08:37:42 AM - TestStatus - INFO: --------Verification Success Header is present
+02/25/2020 08:37:42 AM - TestStatus - INFO: --------Verification Success element is present
+02/25/2020 08:37:43 AM - TestStatus - INFO: screenshot saved  to directorC:\Users\phoex\Desktop\automation_projects\SauceLabs\base\../screenshots/element is present.1582609062941.png
+02/25/2020 08:37:43 AM - TestStatus - INFO: element_present---TEST SUCCESSFUL
+02/25/2020 10:08:08 AM - SeleniumDriver - INFO: Element found with locator: //select[@class="product_sort_container"] and  locatorType: xpath
+02/25/2020 10:08:13 AM - SeleniumDriver - INFO: Element found with locator: //*[@id="inventory_container"]/div/div[1]/div[3]/button and  locatorType: xpath
+02/25/2020 10:08:13 AM - SeleniumDriver - INFO: Clicked on element with locator: //*[@id="inventory_container"]/div/div[1]/div[3]/button locatorType: xpath
+02/25/2020 10:08:13 AM - SeleniumDriver - INFO: Element found with locator: item_4_title_link and  locatorType: id
+02/25/2020 10:08:15 AM - SeleniumDriver - INFO: Clicked on element with locator: item_4_title_link locatorType: id
+02/25/2020 10:08:15 AM - SeleniumDriver - INFO: Element found with locator: //*[@id="inventory_item_container"]/div/div/div/button and  locatorType: xpath
+02/25/2020 10:08:16 AM - SeleniumDriver - INFO: Hovered on element with locator //*[@id="inventory_item_container"]/div/div/div/button and locatorType xpath
+02/25/2020 10:08:16 AM - SeleniumDriver - INFO: Element found with locator: //*[@id="inventory_item_container"]//button[contains(text(),"<- Back")] and  locatorType: xpath
+02/25/2020 10:08:17 AM - SeleniumDriver - INFO: Clicked on element with locator: //*[@id="inventory_item_container"]//button[contains(text(),"<- Back")] locatorType: xpath
+02/25/2020 10:08:17 AM - SeleniumDriver - INFO: Element found with locator: //span[@class="fa-layers-counter shopping_cart_badge"] and  locatorType: xpath
+02/25/2020 10:08:17 AM - SeleniumDriver - INFO: Clicked on element with locator: //span[@class="fa-layers-counter shopping_cart_badge"] locatorType: xpath
+02/25/2020 10:08:17 AM - SeleniumDriver - INFO: Element found with locator: //button[@class="btn_secondary cart_button"] and  locatorType: xpath
+02/25/2020 10:08:19 AM - SeleniumDriver - INFO: Hovered on element with locator //button[@class="btn_secondary cart_button"] and locatorType xpath
+02/25/2020 10:08:19 AM - SeleniumDriver - INFO: Element found with locator: //*[@id="cart_contents_container"]/div/div[2]/a[1] and  locatorType: xpath
+02/25/2020 10:08:20 AM - SeleniumDriver - INFO: Hovered on element with locator //*[@id="cart_contents_container"]/div/div[2]/a[1] and locatorType xpath
+02/25/2020 10:08:20 AM - SeleniumDriver - INFO: Element found with locator: //*[@id="cart_contents_container"]/div/div[2]/a[2] and  locatorType: xpath
+02/25/2020 10:08:21 AM - SeleniumDriver - INFO: Clicked on element with locator: //*[@id="cart_contents_container"]/div/div[2]/a[2] locatorType: xpath
+02/25/2020 10:08:24 AM - SeleniumDriver - ERROR: Element not found with locator: //select[@class="product_sort_container"] and  locatorType: xpath
+02/25/2020 10:08:24 AM - SeleniumDriver - ERROR: Element not found
+02/25/2020 10:08:24 AM - SeleniumDriver - INFO: Element found with locator: //div[@class="subheader"] and  locatorType: xpath
+02/25/2020 10:08:24 AM - SeleniumDriver - INFO: Element Found
+02/25/2020 10:08:24 AM - TestStatus - INFO: --------Verification Success Header is present
+02/25/2020 10:08:24 AM - TestStatus - INFO: --------Verification Success element is present
+02/25/2020 10:08:25 AM - TestStatus - INFO: screenshot saved  to directorC:\Users\phoex\Desktop\automation_projects\SauceLabs\base\../screenshots/element is present.1582614504120.png
+02/25/2020 10:08:25 AM - TestStatus - INFO: element_present---TEST SUCCESSFUL

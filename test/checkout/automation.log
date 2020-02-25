@@ -1,0 +1,52 @@
+02/25/2020 07:52:30 AM - SeleniumDriver - INFO: Element found with locator: first-name and  locatorType: id
+02/25/2020 07:52:30 AM - SeleniumDriver - INFO: Sent data on element with locator: first-name locatorType: id
+02/25/2020 07:52:30 AM - SeleniumDriver - INFO: Element found with locator: last-name and  locatorType: id
+02/25/2020 07:52:30 AM - SeleniumDriver - INFO: Sent data on element with locator: last-name locatorType: id
+02/25/2020 07:52:30 AM - SeleniumDriver - INFO: Element found with locator: postal-code and  locatorType: id
+02/25/2020 07:52:31 AM - SeleniumDriver - INFO: Sent data on element with locator: postal-code locatorType: id
+02/25/2020 07:52:31 AM - SeleniumDriver - INFO: Element found with locator: //a[contains(text(),"CANCEL")] and  locatorType: xpath
+02/25/2020 07:52:32 AM - SeleniumDriver - INFO: Hovered on element with locator //a[contains(text(),"CANCEL")] and locatorType xpath
+02/25/2020 07:52:32 AM - SeleniumDriver - INFO: Element found with locator: //input[@class = "btn_primary cart_button"] and  locatorType: xpath
+02/25/2020 07:52:34 AM - SeleniumDriver - INFO: Clicked on element with locator: //input[@class = "btn_primary cart_button"] locatorType: xpath
+02/25/2020 07:52:37 AM - SeleniumDriver - ERROR: Element not found with locator: //h3[@data-test="error"] and  locatorType: xpath
+02/25/2020 07:52:37 AM - SeleniumDriver - ERROR: Element not found
+02/25/2020 07:55:23 AM - SeleniumDriver - INFO: Element found with locator: first-name and  locatorType: id
+02/25/2020 07:55:23 AM - SeleniumDriver - INFO: Sent data on element with locator: first-name locatorType: id
+02/25/2020 07:55:23 AM - SeleniumDriver - INFO: Element found with locator: last-name and  locatorType: id
+02/25/2020 07:55:23 AM - SeleniumDriver - INFO: Sent data on element with locator: last-name locatorType: id
+02/25/2020 07:55:23 AM - SeleniumDriver - INFO: Element found with locator: postal-code and  locatorType: id
+02/25/2020 07:55:24 AM - SeleniumDriver - INFO: Sent data on element with locator: postal-code locatorType: id
+02/25/2020 07:55:24 AM - SeleniumDriver - INFO: Element found with locator: //a[contains(text(),"CANCEL")] and  locatorType: xpath
+02/25/2020 07:55:25 AM - SeleniumDriver - INFO: Hovered on element with locator //a[contains(text(),"CANCEL")] and locatorType xpath
+02/25/2020 07:55:25 AM - SeleniumDriver - INFO: Element found with locator: //input[@class = "btn_primary cart_button"] and  locatorType: xpath
+02/25/2020 07:55:26 AM - SeleniumDriver - INFO: Clicked on element with locator: //input[@class = "btn_primary cart_button"] locatorType: xpath
+02/25/2020 07:55:26 AM - SeleniumDriver - ERROR: Element not found with locator: //*[@id="contents_wrapper"]/div[2]] and  locatorType: xpath
+02/25/2020 07:55:26 AM - SeleniumDriver - ERROR: Element not found
+02/25/2020 08:06:31 AM - SeleniumDriver - INFO: Element found with locator: first-name and  locatorType: id
+02/25/2020 08:06:32 AM - SeleniumDriver - INFO: Sent data on element with locator: first-name locatorType: id
+02/25/2020 08:06:32 AM - SeleniumDriver - INFO: Element found with locator: last-name and  locatorType: id
+02/25/2020 08:06:32 AM - SeleniumDriver - INFO: Sent data on element with locator: last-name locatorType: id
+02/25/2020 08:06:32 AM - SeleniumDriver - INFO: Element found with locator: postal-code and  locatorType: id
+02/25/2020 08:06:32 AM - SeleniumDriver - INFO: Sent data on element with locator: postal-code locatorType: id
+02/25/2020 08:06:32 AM - SeleniumDriver - INFO: Element found with locator: //a[contains(text(),"CANCEL")] and  locatorType: xpath
+02/25/2020 08:06:33 AM - SeleniumDriver - INFO: Hovered on element with locator //a[contains(text(),"CANCEL")] and locatorType xpath
+02/25/2020 08:06:33 AM - SeleniumDriver - INFO: Element found with locator: //input[@class = "btn_primary cart_button"] and  locatorType: xpath
+02/25/2020 08:06:34 AM - SeleniumDriver - INFO: Clicked on element with locator: //input[@class = "btn_primary cart_button"] locatorType: xpath
+02/25/2020 08:06:34 AM - SeleniumDriver - INFO: Element found with locator: //a[@class="btn_action cart_button"] and  locatorType: xpath
+02/25/2020 08:06:36 AM - SeleniumDriver - INFO: Clicked on element with locator: //a[@class="btn_action cart_button"] locatorType: xpath
+02/25/2020 08:06:36 AM - SeleniumDriver - ERROR: Element not found with locator: //*[@id="contents_wrapper"]/div[2]] and  locatorType: xpath
+02/25/2020 08:06:36 AM - SeleniumDriver - ERROR: Element not found
+02/25/2020 09:28:44 AM - SeleniumDriver - INFO: Element found with locator: first-name and  locatorType: id
+02/25/2020 09:28:44 AM - SeleniumDriver - INFO: Sent data on element with locator: first-name locatorType: id
+02/25/2020 09:28:45 AM - SeleniumDriver - INFO: Element found with locator: last-name and  locatorType: id
+02/25/2020 09:28:45 AM - SeleniumDriver - INFO: Sent data on element with locator: last-name locatorType: id
+02/25/2020 09:28:45 AM - SeleniumDriver - INFO: Element found with locator: postal-code and  locatorType: id
+02/25/2020 09:28:45 AM - SeleniumDriver - INFO: Sent data on element with locator: postal-code locatorType: id
+02/25/2020 09:28:45 AM - SeleniumDriver - INFO: Element found with locator: //a[contains(text(),"CANCEL")] and  locatorType: xpath
+02/25/2020 09:28:46 AM - SeleniumDriver - INFO: Hovered on element with locator //a[contains(text(),"CANCEL")] and locatorType xpath
+02/25/2020 09:28:46 AM - SeleniumDriver - INFO: Element found with locator: //input[@class = "btn_primary cart_button"] and  locatorType: xpath
+02/25/2020 09:28:46 AM - SeleniumDriver - INFO: Clicked on element with locator: //input[@class = "btn_primary cart_button"] locatorType: xpath
+02/25/2020 09:28:47 AM - SeleniumDriver - INFO: Element found with locator: //a[@class="btn_action cart_button"] and  locatorType: xpath
+02/25/2020 09:28:47 AM - SeleniumDriver - INFO: Clicked on element with locator: //a[@class="btn_action cart_button"] locatorType: xpath
+02/25/2020 09:28:50 AM - SeleniumDriver - ERROR: Element not found with locator: //div[contains(text(),"Checkout")] and  locatorType: xpath
+02/25/2020 09:28:50 AM - SeleniumDriver - ERROR: Element not found
